@@ -4,23 +4,7 @@
 Css Down below 
 
 <---->
-a:link { position: fixed;
-    bottom: 550;
-    font-size: 260%;
-    left: 50;
-    width: 400px;
-    text-shadow: 2px 2px red;
-    font-weight: bold;}
 
-a:hover {
-    position: fixed;
-    bottom: 550;
-    font-size: 260%;
-    left: 50;
-    width: 400px;
-    text-shadow: 2px 2px red;
-    font-weight: bold;
-}
 
 <style>
 h1 { cursor: pointer; }
