@@ -208,13 +208,5 @@ zelda { position: fixed;
     text-shadow: 2px 2px #9400D3;
     font-weight: bold;} 
 
-k { position: fixed;
-    bottom: 149;
-    font-size:150%;
-    left: 700;
-    width: 450px;
-    text-shadow: 2px 2px #9400D3;
-    font-weight: bold;} 
-    
 body { background-repeat: no-repeat; }    
 </style>
